@@ -1,3 +1,3 @@
 # SNeRV
 
-The codes will be realised after publication.
+The codes will be realised after the paper is published.
