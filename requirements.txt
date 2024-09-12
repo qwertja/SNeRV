@@ -1,0 +1,14 @@
+torch==1.8.1
+torchvision==0.9.1
+matplotlib
+timm==0.9.7
+tqdm==4.59.0
+numpy==1.20.3
+dahuffman==0.4.1
+decord==0.6.0
+pytorch_msssim==1.0.0
+Pillow==8.3.2
+imageio==2.23.0
+pytorchvideo==0.1.5
+pytorch-wavelets==1.3.0
+PyWavelets==1.4.1
